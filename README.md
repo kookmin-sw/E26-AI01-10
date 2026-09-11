@@ -2,7 +2,7 @@
 
 ## 🎯 팀 슬로건
 
-### git learning --force
+> git learning --force
 
 ## 🖼️ 팀 포스터
 
