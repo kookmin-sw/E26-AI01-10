@@ -1,5 +1,7 @@
 # Welcome to E26-AI01-10 🚀
 
+슬라이드 : file:///C:/Users/Owner/Documents/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EB%B0%9B%EC%9D%80%20%ED%8C%8C%EC%9D%BC/swarm2050_revised.html
+
 ## 🎯 팀 슬로건
 
 > `git learning --force`
