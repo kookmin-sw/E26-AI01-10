@@ -11,7 +11,7 @@
 ## 🖼️ 팀 포스터
 
 <div align="center">
-  <img src="poster.jpg" alt="팀 포스터" width="600"/>
+  <img src="poster AI01_10.jpg" alt="팀 포스터" width="600"/>
 </div>
 
 <p align="center">
